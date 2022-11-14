@@ -7,7 +7,7 @@ int main()
     printf("Ingrese el sueldo: ");
     scanf("%f", &sueldo);
     if(sueldo>3000){
-        printf("Esta persona debe abonar impuesto");
+        printf("Esta persona debe abonar impuesto ");
     }
     getch();
     return 0;
